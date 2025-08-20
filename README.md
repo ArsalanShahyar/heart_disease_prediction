@@ -1,8 +1,3 @@
 # heart_disease_prediction
 
-This is a readme file for github
-
-
-
-
-This is the machine learning Project
+This is a Classification machine learning project for predicting weather a person got heart disease or not.
